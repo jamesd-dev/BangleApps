@@ -2490,5 +2490,17 @@
     {"name":"HRV.app.js","url":"app.js"},
     {"name":"HRV.img","url":"app-icon.js","evaluate":true}
   ]
+},
+{ "id": "gps-tracker",
+  "name": "GPS Tracker",
+  "shortName":"Tracker",
+  "icon": "app.png",
+  "version":"0.01",
+  "description": "This is a description of my awesome timer app",
+  "tags": "",
+  "storage": [
+    {"name":"gps-tracker.app.js","url":"app.js"},
+    {"name":"gps-tracker.img","url":"app-icon.js","evaluate":true}
+  ]
 }
 ]
